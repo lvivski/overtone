@@ -1,0 +1,22 @@
+{
+  "name": "overtone",
+  "version": "0.0.1",
+  "author": "Yehor Lvivski <lvivski@gmail.com>",
+  "description": "Audio transformation library",
+  "keywords": [
+    "audio",
+    "filter",
+    "sound"
+  ],
+  "scripts": {
+    "prepublish": "make -B"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvivski/overtone.git"
+  },
+  "devDependencies": {
+    "uglify-js": "*"
+  },
+  "license": "MIT"
+}

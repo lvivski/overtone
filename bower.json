@@ -1,0 +1,14 @@
+{
+	"name": "overtone",
+	"version": "0.0.1",
+	"main": [
+		"overtone.js"
+	],
+	"ignore": [
+		".*",
+		"src",
+		"Makefile",
+		"index.js",
+		"package.json"
+	]
+}
