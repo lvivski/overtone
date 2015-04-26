@@ -1,6 +1,6 @@
 {
   "name": "overtone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Yehor Lvivski <lvivski@gmail.com>",
   "description": "Audio transformation library",
   "keywords": [
